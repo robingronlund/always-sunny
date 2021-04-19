@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url('../assets/22521.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #2d2d2d;
+  text-decoration: none;
+  transition: color .24s ease-in-out;
+}
+
+label {
+  font-size: 18px;
+}
