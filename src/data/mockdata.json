@@ -1,0 +1,118 @@
+[
+  {
+    "dt": 1618926147,
+    "sunrise": 1618890523,
+    "sunset": 1618943608,
+    "temp": 15.87,
+    "feels_like": 10.71,
+    "pressure": 1015,
+    "humidity": 29,
+    "dew_point": -1.88,
+    "uvi": 3.52,
+    "clouds": 0,
+    "visibility": 10000,
+    "wind_speed": 4.12,
+    "wind_deg": 250,
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "dt": 1618580547,
+    "sunrise": 1618545558,
+    "sunset": 1618597476,
+    "temp": 12.09,
+    "feels_like": 5.75,
+    "pressure": 1028,
+    "humidity": 35,
+    "dew_point": -2.56,
+    "uvi": 2.9,
+    "clouds": 0,
+    "visibility": 10000,
+    "wind_speed": 5.66,
+    "wind_deg": 60,
+    "wind_gust": 11.32,
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "dt": 1618666947,
+    "sunrise": 1618631798,
+    "sunset": 1618684009,
+    "temp": 13.56,
+    "feels_like": 5.59,
+    "pressure": 1026,
+    "humidity": 28,
+    "dew_point": -4.06,
+    "uvi": 3.01,
+    "clouds": 0,
+    "visibility": 10000,
+    "wind_speed": 7.72,
+    "wind_deg": 60,
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "dt": 1618753347,
+    "sunrise": 1618718039,
+    "sunset": 1618770542,
+    "temp": 17.51,
+    "feels_like": 11.23,
+    "pressure": 1024,
+    "humidity": 31,
+    "dew_point": 0.21,
+    "uvi": 3.08,
+    "clouds": 0,
+    "visibility": 10000,
+    "wind_speed": 6.17,
+    "wind_deg": 50,
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  },
+  {
+    "dt": 1618839747,
+    "sunrise": 1618804281,
+    "sunset": 1618857075,
+    "temp": 17.4,
+    "feels_like": 11.6,
+    "pressure": 1022,
+    "humidity": 22,
+    "dew_point": -4,
+    "uvi": 3.36,
+    "clouds": 0,
+    "visibility": 10000,
+    "wind_speed": 4.63,
+    "wind_deg": 40,
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ]
+  }
+]

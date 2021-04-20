@@ -1,3 +1,8 @@
+# Data
+
+This Webapp uses the [Open Weather Api](https://openweathermap.org/) to get historical weather data.
+It's also possible to use mocked data from the `./data` folder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
